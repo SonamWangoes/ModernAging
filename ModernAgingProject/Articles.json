@@ -1,0 +1,45 @@
+{
+    "status": "success",
+    "articlesData":[
+            {
+                "id" : 100,
+                "headline": "Article about Modern Aging activities",
+                "link": "https://www.health.harvard.edu/blog/healthy-lifestyle-5-keys-to-a-longer-life-2018070514186",
+                "photo":"",
+                "categories":[
+                 {"id":1,
+                  "name":"Cognitive"
+                 },
+                 {"id":2,
+                  "name":"Emotional"
+                 },
+                 {"id":3,
+                  "name":"General"
+                 },
+                 {"id":4,
+                  "name":"Physical"
+                 }
+                ]
+            },
+            {
+                "id" : 101,
+                "headline": "Article about aging and staying active",
+                "link": "https://www.pineparkhealth.com/articles/staying-active-as-we-age-benefits-of-exercise",
+                "photo":"",
+                "categories":[
+                 {"id":1,
+                  "name":"Cognitive"
+                 },
+                 {"id":2,
+                  "name":"Emotional"
+                 },
+                 {"id":3,
+                  "name":"General"
+                 },
+                 {"id":4,
+                  "name":"Physical"
+                 }
+                ]
+            }
+        ]
+}
